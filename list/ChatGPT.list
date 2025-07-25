@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 IP-CIDR,107.172.143.147/32
+IP-CIDR,216.144.228.115/32
